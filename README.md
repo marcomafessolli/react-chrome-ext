@@ -1,6 +1,7 @@
 # React Chrome Extension Starter
 
-Welcome to the React Chrome Extension Starter repository! This starter project is designed to help you get started building Chrome extensions using TypeScript and React. We've included tools like [Vite](https://vitejs.com/) and [crjsx](https://github.com/skpm/crjsx) to make development a breeze.
+This starter project is designed to help you get started building Chrome extensions using TypeScript and React. 
+It includes tools like [Vite](https://vitejs.com/) and [crjsx](https://github.com/skpm/crjsx) to make development a breeze.
 
 ## Prerequisites
 
@@ -30,7 +31,7 @@ pnpx degit https://github.com/marcomafessolli/react-chrome-ext.git
 cd react-chrome-ext
 ```
 
-3. Install the project dependencies using your package manager of choice (we recommend using [pnpm](https://pnpm.js.org/)):
+3. Install the project dependencies using your package manager of choice (I prefer [pnpm](https://pnpm.js.org/)):
 
 ```bash
 pnpm install
@@ -68,3 +69,5 @@ Keep in mind that this only works while the development server is running. If yo
 _This README.md written by Assistant._
 
 _Seriously, have you ever tried writing a README with Assistant's help?_ 
+
+<img src="https://api.countapi.xyz/hit/mmafessolli-github/react-browser-ext?img">
