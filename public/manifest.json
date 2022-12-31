@@ -1,10 +1,16 @@
 {
+  "$schema": "https://json.schemastore.org/chrome-manifest.json",
   "manifest_version": 3,
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
+  "name": "Vite Extension Starter",
+  "description": "Browser extension starter powered by Vite + React + Typescript",
   "version": "1.0",
   "action": {
     "default_popup": "index.html",
-    "default_icon": "vite.svg"
-  }
+    "default_icon": {
+      "32": "vite.png"
+    }
+  },
+  "permissions": [
+    "scripting"
+  ]
 }

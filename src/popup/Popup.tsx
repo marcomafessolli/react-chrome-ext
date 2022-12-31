@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import reactLogo from './images/react.svg'
 
-function App() {
+function Popup() {
   return (
     <div>
         Hello sir!
@@ -9,4 +8,4 @@ function App() {
   )
 }
 
-export default App
+export default Popup
