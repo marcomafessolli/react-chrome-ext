@@ -1,10 +1,19 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-import Popup from './Popup'
+import Popup from "./Popup";
 
-ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
+if (!chrome?.runtime) {
+  window.chrome = {
+    // @ts-ignore
+    runtime: {
+      getURL: (url: string) => url,
+    },
+  };
+}
+
+ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <Popup />
-  </React.StrictMode>,
-)
+  </React.StrictMode>
+);

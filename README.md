@@ -1,24 +1,24 @@
 # React Chrome Extension Starter
 
-This starter project is designed to help you get started building Chrome extensions using TypeScript and React. 
+This starter project is designed to help you get started building Chrome extensions using TypeScript and React.
 It includes tools like [Vite](https://vitejs.com/) and [crjsx](https://github.com/skpm/crjsx) to make development a breeze.
 
 ### References:
 
-* [Chrome Extension Docs](https://developer.chrome.com/extensions) - the official documentation for developing Chrome extensions
-* [TypeScript](https://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript
-* [React](https://reactjs.org/) - a JavaScript library for building user interfaces
-* [Vite](https://vitejs.com/) - a fast and lightweight development build tool
-* [crjsx](https://github.com/skpm/crjsx) - a transform that allows you to write Chrome extensions with JSX
-* [pnpm](https://pnpm.js.org/) - a fast and disk space efficient package manager
-* [degit](https://github.com/Rich-Harris/degit) - a tool for easily cloning a project and removing the git history
+- [Chrome Extension Docs](https://developer.chrome.com/extensions) - the official documentation for developing Chrome extensions
+- [TypeScript](https://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript
+- [React](https://reactjs.org/) - a JavaScript library for building user interfaces
+- [Vite](https://vitejs.com/) - a fast and lightweight development build tool
+- [crjsx](https://github.com/skpm/crjsx) - a transform that allows you to write Chrome extensions with JSX
+- [pnpm](https://pnpm.js.org/) - a fast and disk space efficient package manager
+- [degit](https://github.com/Rich-Harris/degit) - a tool for easily cloning a project and removing the git history
 
 ## Prerequisites
 
 Before you get started, make sure you have the following tools installed on your machine:
 
-* [Node.js](https://nodejs.org/)
-* [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/)
+- [Git](https://git-scm.com/)
 
 ## Getting Started
 
@@ -31,6 +31,7 @@ git clone https://github.com/marcomafessolli/react-chrome-ext.git
 ```
 
 Alternatively, you can use [degit](https://github.com/Rich-Harris/degit) to clone the repository:
+
 ```bash
 pnpx degit https://github.com/marcomafessolli/react-chrome-ext.git
 ```
@@ -78,4 +79,4 @@ Keep in mind that this only works while the development server is running. If yo
 
 _This README.md written by Assistant._
 
-_Seriously, have you ever tried writing a README with Assistant's help?_ 
+_Seriously, have you ever tried writing a README with Assistant's help?_
