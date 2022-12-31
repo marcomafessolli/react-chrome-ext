@@ -10,5 +10,5 @@
       "32": "vite.png"
     }
   },
-  "permissions": ["background", "scripting", "activeTab"]
+  "permissions": ["background", "scripting", "activeTab", "tabs"]
 }
