@@ -1,4 +1,4 @@
-import reactLogo from '../images/react.svg'
+import reactLogo from './images/react.svg'
 
 function Popup() {
     return (
