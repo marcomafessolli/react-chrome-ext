@@ -3,6 +3,16 @@
 This starter project is designed to help you get started building Chrome extensions using TypeScript and React. 
 It includes tools like [Vite](https://vitejs.com/) and [crjsx](https://github.com/skpm/crjsx) to make development a breeze.
 
+### References:
+
+* [Chrome Extension Docs](https://developer.chrome.com/extensions) - the official documentation for developing Chrome extensions
+* [TypeScript](https://www.typescriptlang.org/) - a typed superset of JavaScript that compiles to plain JavaScript
+* [React](https://reactjs.org/) - a JavaScript library for building user interfaces
+* [Vite](https://vitejs.com/) - a fast and lightweight development build tool
+* [crjsx](https://github.com/skpm/crjsx) - a transform that allows you to write Chrome extensions with JSX
+* [pnpm](https://pnpm.js.org/) - a fast and disk space efficient package manager
+* [degit](https://github.com/Rich-Harris/degit) - a tool for easily cloning a project and removing the git history
+
 ## Prerequisites
 
 Before you get started, make sure you have the following tools installed on your machine:
@@ -69,5 +79,3 @@ Keep in mind that this only works while the development server is running. If yo
 _This README.md written by Assistant._
 
 _Seriously, have you ever tried writing a README with Assistant's help?_ 
-
-<img src="https://api.countapi.xyz/hit/mmafessolli-github/react-browser-ext?img">
