@@ -1,5 +1,5 @@
 {
-  "name": "browserext-starter",
+  "name": "react-chrome-extension-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",

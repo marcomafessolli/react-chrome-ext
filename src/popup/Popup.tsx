@@ -1,11 +1,15 @@
-import { useState } from 'react'
+import reactLogo from '../images/react.svg'
 
 function Popup() {
-  return (
-    <div>
-        Hello sir!
-    </div>
-  )
+    return (
+        <>
+            <h3>
+                React Chrome Extension Starter
+            </h3>
+            <img src={reactLogo} alt=""/>
+        </>
+
+    )
 }
 
 export default Popup
