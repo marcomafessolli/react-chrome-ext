@@ -11,6 +11,8 @@
     }
   },
   "permissions": [
-    "scripting"
+    "background",
+    "scripting",
+    "activeTab"
   ]
 }

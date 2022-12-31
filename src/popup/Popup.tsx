@@ -6,7 +6,7 @@ function Popup() {
             <h3>
                 React Chrome Extension Starter
             </h3>
-            <img src={reactLogo} alt=""/>
+            <img src={chrome.runtime.getURL(reactLogo)} alt=""/>
         </>
 
     )
